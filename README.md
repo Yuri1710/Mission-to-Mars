@@ -11,19 +11,24 @@ Automate a web browser to scrape, or extract data, after this we must visualize 
 - Visualize and analyze scraped data by using Python tools.
 
 
-
 ## Tools
 
-1. BeautifulSoup4 4.9.3
-2. Bootstrap 3.3.7
-3. DateTime 4.3
-4. Flask 1.1.2
-5. Flask-PyMongo 2.3.0
-6. html5lib 1.1
-7. Jupyter Notebook 6.1.4
-8. MongoDB 4.4.2
-9. Numpy 1.19.3***
-10. Pandas 1.1.4
-11. PyMongo 3.11.2
-12. Splinter 0.14.0
-13. webdriver-manager 3.2.2
+1. BeautifulSoup4 
+2. DateTime 
+3. Jupyter Notebook 6.1.4
+4. MongoDB 4.4.2
+5. Numpy 
+6. Pandas
+7. PyMongo 3.11.2
+8. Splinter
+9. Webdriver-manager
+10. Beautiful Soup
+11. Matplotlib
+
+
+
+
+How many terrestrial (earth) days are there in a Martian year?
+
+![terrestrialdays](https://user-images.githubusercontent.com/114257085/215242513-71cecf49-56d3-4e5a-9d7b-2b6962f7f725.png)
+
