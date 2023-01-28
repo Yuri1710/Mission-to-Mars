@@ -58,7 +58,7 @@ By performing in-depth analysis of our mission to mars challenge, we are able to
 ![Capture](https://user-images.githubusercontent.com/114257085/215243086-0bca2f2c-fb0e-4c09-80da-3b5caff3dc3e.PNG)
 
 
-
+Finally, we made some graphics for a better understanding and visual improvement, for example:
 
 ***How many terrestrial (earth) days are there in a Martian year?*** 
 
